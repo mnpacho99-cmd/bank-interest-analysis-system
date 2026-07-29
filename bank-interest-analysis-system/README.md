@@ -2,8 +2,6 @@
 
 By Matías Nicolas Pacho
 
-Video overview: <URL HERE>
-
 ## Scope
 
 The main purpose of this database is, firstly:
