@@ -1,5 +1,3 @@
-# Design Document
-
 ## Bank Interest Analysis System    
 
 By Matías Nicolas Pacho
