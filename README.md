@@ -66,7 +66,7 @@ The `historical_rates` table includes:
 
 Below is the ERD diagram that describes the relationships between the tables and entities in the database:
 
-![ERD Graph](diagram.png)
+![ERD Graph](bank-interest-analysis-system/diagram.png)
 
 As detailed by the diagram:
 
